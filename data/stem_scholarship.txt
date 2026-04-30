@@ -1,0 +1,22 @@
+# Future Innovators STEM Scholarship
+
+## Overview
+Aimed at encouraging students, particularly those from underrepresented groups, to pursue careers in Science, Technology, Engineering, and Mathematics (STEM).
+
+## Eligibility Criteria
+- **Major:** Must be declared in a STEM field (Computer Science, Engineering, Mathematics, Physics, Biology, Chemistry, etc.).
+- **Minimum GPA:** 8.0 on a 10.0 scale.
+- **Academic Standing:** Sophomores, Juniors, and Seniors only.
+- **Extracurriculars:** Demonstrated involvement in STEM-related clubs, research, or personal projects is highly preferred.
+
+## Award Amount
+- $5,000 per academic year.
+- Includes a guaranteed interview for the summer research internship program at the university's innovation lab.
+
+## Application Procedure
+1. Apply via the standard university scholarship portal.
+2. Submit a one-page project proposal or a portfolio of past technical projects (e.g., GitHub link, research paper, lab report).
+3. One letter of recommendation from a STEM faculty member.
+
+## Deadline
+June 30th.
